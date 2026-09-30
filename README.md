@@ -52,11 +52,9 @@ Stores the environmental ranges used by the simulation for each supported plant,
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/smart-greenhouse-simulation.git
+git clone https://github.com/elifnurt7/smart-greenhouse-simulation.git
 cd smart-greenhouse-simulation
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Install the dependencies
 
